@@ -1,4 +1,4 @@
-# ✨ Stackbit Fresh Theme aa ✨
+# ✨ Stackbit Fresh Theme aaa ✨
 
 This is Stackbit's "Fresh" theme built with [Next.js](https://nextjs.org/) and
 powered by content stored in files.
